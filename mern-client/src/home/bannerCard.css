@@ -1,0 +1,90 @@
+
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+ .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  /* ... rest of your CSS ... */
+
+.banner .image-1 {
+  background-image: url('src/assets/panadol.jpg');
+}
+
+.banner .image-2 {
+  background-image: url('src/assets/Panadol-Migraine.jpg');
+}
+
+.banner .image-3 {
+  background-image: url('src/assets/neo-k.jpg');
+}
+
+.banner .image-4 {
+  background-image: url('src/assets/dermovate.jpg');
+}
+
+.banner .image-5 {
+  background-image: url('src/assets/calpol.jpg');
+}
+
+.banner .image-6 {
+  background-image: url('src/assets/Cac-1000-plus-orange.png');
+}
+
+.banner .image-7 {
+  background-image: url('src/assets/brufen.png');
+}
+
+.banner .image-8 {
+  background-image: url('src/assets/Betnesol-N-Eye-Ear-and-Nose-Drops.jpg');
+}
+
+.banner .image-9 {
+  background-image: url('src/assets/Arinac-forte.jpg');
+}
+
+  
+ /* .banner .swiper-slide:nth-child(1n) {
+    background-image: url('src/assets/panadol.jpg');
+    
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('src/assets/Panadol-Migraine.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('src/assets/neo-k.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('src/assets/dermovate.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('src/assets/calpol.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url('src/assets/Cac-1000-plus-orange.jpg');
+  }
+  
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url('src/assets/brufen.jpg');
+  }
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('src/assets/Betnesol-N-Eye-Ear-and-Nose-Drops.jpg');
+  }
+  .banner .swiper-slide:nth-child(9n) {
+    background-image: url('src/assets/Arinac-forte.jpg');
+  }
+   */

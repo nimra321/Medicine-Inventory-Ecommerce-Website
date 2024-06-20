@@ -1,0 +1,45 @@
+.container{
+    padding: 20px;
+}
+.user-profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .profile-card,
+  .medicine-card,
+  .total-spent-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+  }
+  
+  .profile-card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .medicine-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .medicine-card li {
+    margin-bottom: 5px;
+  }
+  
+  .total-spent-card p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #3498db;
+  }
+.order-card{
+  border: 1px solid #999;
+  margin-bottom: 10px;
+  padding: 10px;
+}
